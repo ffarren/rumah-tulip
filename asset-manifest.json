@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rumah-tulip/static/css/main.79b3a4e7.css",
-    "main.js": "/rumah-tulip/static/js/main.1e715634.js",
+    "main.js": "/rumah-tulip/static/js/main.5fb947a0.js",
     "index.html": "/rumah-tulip/index.html",
     "main.79b3a4e7.css.map": "/rumah-tulip/static/css/main.79b3a4e7.css.map",
-    "main.1e715634.js.map": "/rumah-tulip/static/js/main.1e715634.js.map"
+    "main.5fb947a0.js.map": "/rumah-tulip/static/js/main.5fb947a0.js.map"
   },
   "entrypoints": [
     "static/css/main.79b3a4e7.css",
-    "static/js/main.1e715634.js"
+    "static/js/main.5fb947a0.js"
   ]
 }
