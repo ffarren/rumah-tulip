@@ -4,7 +4,7 @@ const Jumbotron = () => {
       <h1 className="font-petrona text-5xl sm:text-6xl md:w-full lg:w-4/6 z-20 text-blue-950 mb-16">
         Local Surroundings.
         <br />
-        Modern Facilitites.
+        Modern Facilities.
         <br />
         Experience peace at <br />
         <span className="font-bold">Rumah Tulip.</span>
